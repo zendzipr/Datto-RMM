@@ -21,7 +21,7 @@ This repository contains a collection of custom components, scripts, and monitor
 To use the components, scripts, and monitors from this repository, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine or download the files you need directly.
-git clone https://github.com/yourusername/datto-rmm-repository.git
+git clone https://github.com/zendzipr/datto-rmm-repository.git
 
 2. **Review the Documentation:** Each component, script, and monitor comes with its own README or documentation. Make sure to read these files for installation instructions and usage guidelines.
 3. **Deploy to Datto RMM:** Follow the specific instructions for each tool to deploy it to your Datto RMM environment.
@@ -44,9 +44,6 @@ Please ensure your code adheres to the best practices and includes documentation
 
 If you encounter any issues or have questions about using or contributing to this repository, please open an issue on GitHub.
 
-## License
-
-[MIT License](LICENSE.md) - see the LICENSE file for details.
 
 ---
 
